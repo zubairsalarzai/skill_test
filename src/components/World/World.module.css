@@ -1,0 +1,29 @@
+.world {
+  background-color: black;
+  text-align: center;
+  padding: 5%;
+}
+.worldImg {
+  width: 50vh;
+  position: relative;
+}
+.worldText {
+  position: absolute;
+  width: 50%;
+
+  margin: -280px 0px 0px 0px;
+  left: 26%;
+}
+.heading {
+  background: #af69ff;
+  background: linear-gradient(to right, #af69ff 0%, #21b853 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+/* .worldWork {
+  background-image: url("../../assets/04.png");
+  background-size: cover;
+
+  height: 100vh;
+} */

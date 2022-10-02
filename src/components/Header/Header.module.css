@@ -1,0 +1,26 @@
+.header {
+  background-image: url("../../assets/19.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.headerMain {
+  background: rgba(39, 40, 39, 0.7);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.headerBtn {
+  margin-right: 5%;
+  background: rgb(58, 180, 105);
+  background: linear-gradient(
+    90deg,
+    rgba(58, 180, 105, 1) 0%,
+    rgba(29, 253, 168, 1) 50%,
+    rgba(69, 82, 252, 1) 100%
+  );
+  border: none;
+}
+
+.headerSpan {
+  margin: 0 8% 0 8%;
+  color: whitesmoke;
+}

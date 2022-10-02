@@ -1,0 +1,36 @@
+.reward {
+  background-image: url("../../assets/15.png");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+}
+.referral {
+  width: 60% !important;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5%;
+}
+
+.arrow {
+  color: white;
+
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.btn {
+  background: rgb(58, 180, 105);
+  background: linear-gradient(
+    90deg,
+    rgba(58, 180, 105, 1) 0%,
+    rgba(29, 253, 168, 1) 50%,
+    rgba(69, 82, 252, 1) 100%
+  );
+  border: none;
+}
+.heading {
+  background: #af69ff;
+  background: linear-gradient(to right, #af69ff 16%, #21b853 76%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}

@@ -1,0 +1,66 @@
+.FantomNetwork {
+  margin-top: 10%;
+}
+.FantomNetwork1 {
+  width: 40%;
+  margin: 5% 0 auto 0;
+}
+
+.headerBtn {
+  margin-right: 10px;
+  border-radius: none !important;
+  background: rgb(58, 180, 105);
+  background: linear-gradient(
+    90deg,
+    rgba(58, 180, 105, 1) 0%,
+    rgba(29, 253, 168, 1) 50%,
+    rgba(69, 82, 252, 1) 100%
+  );
+  border: none;
+}
+.ss {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 55%;
+  background: rgb(34, 195, 131);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 195, 131, 1) 0%,
+    rgba(28, 152, 164, 1) 55%,
+    rgba(45, 81, 253, 1) 100%
+  );
+  transform: rotate(45deg);
+  position: relative;
+}
+.heading {
+  background: #af69ff;
+  background: linear-gradient(to right, #af69ff 0%, #21b853 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+.percentage {
+  position: absolute;
+  margin: 11px;
+  width: 30px;
+}
+.man {
+  position: absolute;
+  margin: 11px;
+  margin-top: 13px;
+  width: 30px;
+}
+.box {
+  position: absolute;
+  margin: 11px;
+  width: 30px;
+  height: 30px;
+}
+.spanNo {
+  color: whitesmoke;
+  font-size: medium;
+}
+.spanText {
+  color: rgb(55, 46, 46);
+  font-size: small;
+}

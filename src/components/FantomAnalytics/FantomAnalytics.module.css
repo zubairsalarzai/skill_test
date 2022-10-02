@@ -1,0 +1,29 @@
+.withDrawDiv {
+  background: #000;
+  border-radius: 5px;
+  padding: 25px 35px 25px 35px;
+}
+.fantomAnalytics {
+  padding: 3%;
+  background: rgb(58, 180, 105);
+  background: linear-gradient(
+    90deg,
+    rgba(58, 180, 105, 1) 0%,
+    rgba(29, 253, 168, 1) 50%,
+    rgba(69, 82, 252, 1) 100%
+  );
+}
+.matic {
+  font-size: x-small;
+  color: rgb(111, 103, 103);
+}
+.btn {
+  margin-top: 6%;
+  background: rgb(58, 180, 105);
+  background: linear-gradient(
+    90deg,
+    rgba(58, 180, 105, 1) 0%,
+    rgba(29, 253, 168, 1) 50%,
+    rgba(69, 82, 252, 1) 100%
+  );
+}

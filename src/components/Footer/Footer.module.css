@@ -1,0 +1,13 @@
+.footer {
+  padding: 10px;
+  background: rgb(58, 180, 105);
+  background: linear-gradient(
+    90deg,
+    rgba(58, 180, 105, 1) 0%,
+    rgba(29, 253, 168, 1) 50%,
+    rgba(69, 82, 252, 1) 100%
+  );
+}
+p {
+  margin-bottom: 0px !important;
+}

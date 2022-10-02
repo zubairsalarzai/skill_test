@@ -1,0 +1,18 @@
+.cardImage {
+  width: 400px;
+}
+.xc {
+}
+
+#card .x:hover {
+  box-shadow: 0px 11px 0px 0px rgba(0, 0, 0, 0.75);
+  z-index: 2;
+  -webkit-transform: scale(1.06);
+  -ms-transform: scale(1.06);
+  -moz-transform: scale(1.06);
+  transform: scale(1.06);
+  border: 0;
+  -webkit-transition: 0.5s all;
+  transition: 0.5s all;
+  border: none;
+}

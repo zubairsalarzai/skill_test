@@ -1,0 +1,27 @@
+.profit {
+  background-image: url("../../assets/17.png");
+  background-size: cover;
+  height: 100vh;
+  padding-top: 4%;
+  /* text-align: center; */
+}
+p {
+  color: white;
+}
+.lowerRisk {
+  transform: rotate(90deg);
+  font-size: 50px;
+  font-weight: bolder;
+  background-color: aqua;
+  width: 500px;
+  height: 100px;
+  text-align: center;
+}
+.heading {
+  background: #7e4cb8;
+  background: linear-gradient(to right, #7e4cb8 11%, #146e31 66%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-weight: bold;
+}

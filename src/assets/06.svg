@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="23" viewBox="0 0 32 23">
+  <g id="Group_35" data-name="Group 35" transform="translate(-343 -4640.5)">
+    <g id="Group_33" data-name="Group 33">
+      <rect id="Rectangle_61" data-name="Rectangle 61" width="32" height="23" rx="3" transform="translate(343 4640.5)" fill="#974aff"/>
+      <path id="Path_14" data-name="Path 14" d="M345.357,4648.444v-3.389h3.8l-3.8,3.937Z" transform="translate(0 -1)" fill="#974aff" stroke="#163737" stroke-width="1"/>
+      <path id="Path_15" data-name="Path 15" d="M349.157,4648.444v-3.389h-3.8l3.8,3.937Z" transform="translate(23 -1)" fill="#974aff" stroke="#163737" stroke-width="1"/>
+      <path id="Path_16" data-name="Path 16" d="M345.357,4645.6v3.389h3.8l-3.8-3.937Z" transform="translate(0 12)" fill="#974aff" stroke="#163737" stroke-width="1"/>
+      <path id="Path_17" data-name="Path 17" d="M349.157,4645.6v3.389h-3.8l3.8-3.937Z" transform="translate(23 12)" fill="#974aff" stroke="#163737" stroke-width="1"/>
+    </g>
+    <text id="_" data-name="$
+" transform="translate(353 4640.5)" fill="#163737" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.04em"><tspan x="1.688" y="17">$</tspan></text>
+  </g>
+</svg>
